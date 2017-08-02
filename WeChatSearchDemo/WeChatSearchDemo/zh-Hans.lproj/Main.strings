@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "文章"; ObjectID = "852-cA-RIK"; */
+"852-cA-RIK.text" = "文章";
+
+/* Class = "UILabel"; text = "表情"; ObjectID = "EQd-h8-CT1"; */
+"EQd-h8-CT1.text" = "表情";
+
+/* Class = "UILabel"; text = "音乐"; ObjectID = "TQI-9k-ZVG"; */
+"TQI-9k-ZVG.text" = "音乐";
+
+/* Class = "UILabel"; text = "公众号"; ObjectID = "X3T-sJ-B6Q"; */
+"X3T-sJ-B6Q.text" = "公众号";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XS6-4v-CfO"; */
+"XS6-4v-CfO.text" = "Label";
+
+/* Class = "UILabel"; text = "朋友圈"; ObjectID = "duH-dy-HYo"; */
+"duH-dy-HYo.text" = "朋友圈";
+
+/* Class = "UINavigationItem"; title = "通讯录"; ObjectID = "eoX-10-4eo"; */
+"eoX-10-4eo.title" = "通讯录";
+
+/* Class = "UILabel"; text = "搜索指定内容"; ObjectID = "puO-nt-piW"; */
+"puO-nt-piW.text" = "搜索指定内容";
+
+/* Class = "UILabel"; text = "小说"; ObjectID = "sRE-zh-FX8"; */
+"sRE-zh-FX8.text" = "小说";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xOR-zA-w8X"; */
+"xOR-zA-w8X.text" = "Label";
